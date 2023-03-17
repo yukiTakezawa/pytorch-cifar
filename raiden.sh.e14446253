@@ -1,0 +1,30 @@
+Traceback (most recent call last):
+  File "main_vit.py", line 75, in <module>
+    net = vit_tiny_patch16_224(pretrained=True, num_class=100)
+  File "/home/takezawa/anaconda3/envs/MT_env/lib/python3.8/site-packages/timm/models/vision_transformer.py", line 546, in vit_tiny_patch16_224
+    model = _create_vision_transformer('vit_tiny_patch16_224', pretrained=pretrained, **model_kwargs)
+  File "/home/takezawa/anaconda3/envs/MT_env/lib/python3.8/site-packages/timm/models/vision_transformer.py", line 531, in _create_vision_transformer
+    model = build_model_with_cfg(
+  File "/home/takezawa/anaconda3/envs/MT_env/lib/python3.8/site-packages/timm/models/helpers.py", line 445, in build_model_with_cfg
+    model = model_cls(**kwargs) if model_cfg is None else model_cls(cfg=model_cfg, **kwargs)
+TypeError: __init__() got an unexpected keyword argument 'num_class'
+Traceback (most recent call last):
+  File "main_vit.py", line 75, in <module>
+    net = vit_tiny_patch16_224(pretrained=True, num_class=100)
+  File "/home/takezawa/anaconda3/envs/MT_env/lib/python3.8/site-packages/timm/models/vision_transformer.py", line 546, in vit_tiny_patch16_224
+    model = _create_vision_transformer('vit_tiny_patch16_224', pretrained=pretrained, **model_kwargs)
+  File "/home/takezawa/anaconda3/envs/MT_env/lib/python3.8/site-packages/timm/models/vision_transformer.py", line 531, in _create_vision_transformer
+    model = build_model_with_cfg(
+  File "/home/takezawa/anaconda3/envs/MT_env/lib/python3.8/site-packages/timm/models/helpers.py", line 445, in build_model_with_cfg
+    model = model_cls(**kwargs) if model_cfg is None else model_cls(cfg=model_cfg, **kwargs)
+TypeError: __init__() got an unexpected keyword argument 'num_class'
+Traceback (most recent call last):
+  File "main_vit.py", line 75, in <module>
+    net = vit_tiny_patch16_224(pretrained=True, num_class=100)
+  File "/home/takezawa/anaconda3/envs/MT_env/lib/python3.8/site-packages/timm/models/vision_transformer.py", line 546, in vit_tiny_patch16_224
+    model = _create_vision_transformer('vit_tiny_patch16_224', pretrained=pretrained, **model_kwargs)
+  File "/home/takezawa/anaconda3/envs/MT_env/lib/python3.8/site-packages/timm/models/vision_transformer.py", line 531, in _create_vision_transformer
+    model = build_model_with_cfg(
+  File "/home/takezawa/anaconda3/envs/MT_env/lib/python3.8/site-packages/timm/models/helpers.py", line 445, in build_model_with_cfg
+    model = model_cls(**kwargs) if model_cfg is None else model_cls(cfg=model_cfg, **kwargs)
+TypeError: __init__() got an unexpected keyword argument 'num_class'

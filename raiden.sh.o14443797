@@ -1,0 +1,801 @@
+==> Preparing data..
+Downloading https://www.cs.toronto.edu/~kriz/cifar-100-python.tar.gz to ./data/cifar-100-python.tar.gz
+Extracting ./data/cifar-100-python.tar.gz to ./data
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Saving..
+acc: 60.29
+
+Epoch: 1
+Saving..
+acc: 71.55
+
+Epoch: 2
+Saving..
+acc: 72.02
+
+Epoch: 3
+Saving..
+acc: 75.51
+
+Epoch: 4
+Saving..
+acc: 76.02
+
+Epoch: 5
+Saving..
+acc: 76.42
+
+Epoch: 6
+
+Epoch: 7
+Saving..
+acc: 77.45
+
+Epoch: 8
+Saving..
+acc: 77.47
+
+Epoch: 9
+
+Epoch: 10
+
+Epoch: 11
+
+Epoch: 12
+
+Epoch: 13
+
+Epoch: 14
+
+Epoch: 15
+
+Epoch: 16
+
+Epoch: 17
+
+Epoch: 18
+
+Epoch: 19
+
+Epoch: 20
+
+Epoch: 21
+
+Epoch: 22
+
+Epoch: 23
+
+Epoch: 24
+Saving..
+acc: 77.73
+
+Epoch: 25
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+
+Epoch: 31
+
+Epoch: 32
+
+Epoch: 33
+
+Epoch: 34
+Saving..
+acc: 78.25
+
+Epoch: 35
+
+Epoch: 36
+
+Epoch: 37
+
+Epoch: 38
+
+Epoch: 39
+
+Epoch: 40
+
+Epoch: 41
+
+Epoch: 42
+
+Epoch: 43
+
+Epoch: 44
+
+Epoch: 45
+
+Epoch: 46
+
+Epoch: 47
+
+Epoch: 48
+
+Epoch: 49
+Saving..
+acc: 78.73
+
+Epoch: 50
+
+Epoch: 51
+Saving..
+acc: 79.02
+
+Epoch: 52
+
+Epoch: 53
+Saving..
+acc: 79.72
+
+Epoch: 54
+
+Epoch: 55
+Saving..
+acc: 80.14
+
+Epoch: 56
+
+Epoch: 57
+
+Epoch: 58
+
+Epoch: 59
+
+Epoch: 60
+
+Epoch: 61
+
+Epoch: 62
+
+Epoch: 63
+Saving..
+acc: 80.41
+
+Epoch: 64
+Saving..
+acc: 81.0
+
+Epoch: 65
+Saving..
+acc: 81.27
+
+Epoch: 66
+
+Epoch: 67
+
+Epoch: 68
+
+Epoch: 69
+
+Epoch: 70
+
+Epoch: 71
+
+Epoch: 72
+
+Epoch: 73
+
+Epoch: 74
+
+Epoch: 75
+
+Epoch: 76
+
+Epoch: 77
+
+Epoch: 78
+
+Epoch: 79
+
+Epoch: 80
+
+Epoch: 81
+
+Epoch: 82
+
+Epoch: 83
+
+Epoch: 84
+
+Epoch: 85
+
+Epoch: 86
+
+Epoch: 87
+
+Epoch: 88
+
+Epoch: 89
+
+Epoch: 90
+
+Epoch: 91
+
+Epoch: 92
+
+Epoch: 93
+
+Epoch: 94
+
+Epoch: 95
+
+Epoch: 96
+
+Epoch: 97
+
+Epoch: 98
+
+Epoch: 99
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Saving..
+acc: 36.81
+
+Epoch: 1
+Saving..
+acc: 65.49
+
+Epoch: 2
+Saving..
+acc: 72.69
+
+Epoch: 3
+Saving..
+acc: 76.93
+
+Epoch: 4
+Saving..
+acc: 79.24
+
+Epoch: 5
+Saving..
+acc: 80.18
+
+Epoch: 6
+Saving..
+acc: 81.16
+
+Epoch: 7
+Saving..
+acc: 81.31
+
+Epoch: 8
+Saving..
+acc: 81.9
+
+Epoch: 9
+Saving..
+acc: 82.16
+
+Epoch: 10
+Saving..
+acc: 82.21
+
+Epoch: 11
+Saving..
+acc: 82.77
+
+Epoch: 12
+
+Epoch: 13
+Saving..
+acc: 83.63
+
+Epoch: 14
+
+Epoch: 15
+
+Epoch: 16
+
+Epoch: 17
+
+Epoch: 18
+
+Epoch: 19
+Saving..
+acc: 83.84
+
+Epoch: 20
+Saving..
+acc: 83.95
+
+Epoch: 21
+
+Epoch: 22
+Saving..
+acc: 84.06
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+Saving..
+acc: 84.19
+
+Epoch: 26
+Saving..
+acc: 84.2
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+Saving..
+acc: 84.42
+
+Epoch: 30
+Saving..
+acc: 84.45
+
+Epoch: 31
+
+Epoch: 32
+
+Epoch: 33
+
+Epoch: 34
+
+Epoch: 35
+
+Epoch: 36
+
+Epoch: 37
+Saving..
+acc: 84.52
+
+Epoch: 38
+
+Epoch: 39
+
+Epoch: 40
+Saving..
+acc: 84.63
+
+Epoch: 41
+
+Epoch: 42
+
+Epoch: 43
+
+Epoch: 44
+
+Epoch: 45
+
+Epoch: 46
+
+Epoch: 47
+
+Epoch: 48
+
+Epoch: 49
+
+Epoch: 50
+
+Epoch: 51
+
+Epoch: 52
+
+Epoch: 53
+
+Epoch: 54
+
+Epoch: 55
+Saving..
+acc: 84.64
+
+Epoch: 56
+
+Epoch: 57
+
+Epoch: 58
+
+Epoch: 59
+
+Epoch: 60
+
+Epoch: 61
+
+Epoch: 62
+
+Epoch: 63
+
+Epoch: 64
+
+Epoch: 65
+
+Epoch: 66
+
+Epoch: 67
+
+Epoch: 68
+
+Epoch: 69
+
+Epoch: 70
+
+Epoch: 71
+
+Epoch: 72
+
+Epoch: 73
+
+Epoch: 74
+
+Epoch: 75
+
+Epoch: 76
+
+Epoch: 77
+
+Epoch: 78
+
+Epoch: 79
+
+Epoch: 80
+
+Epoch: 81
+
+Epoch: 82
+
+Epoch: 83
+
+Epoch: 84
+
+Epoch: 85
+Saving..
+acc: 84.66
+
+Epoch: 86
+
+Epoch: 87
+
+Epoch: 88
+
+Epoch: 89
+
+Epoch: 90
+
+Epoch: 91
+
+Epoch: 92
+Saving..
+acc: 84.68
+
+Epoch: 93
+
+Epoch: 94
+
+Epoch: 95
+
+Epoch: 96
+
+Epoch: 97
+
+Epoch: 98
+
+Epoch: 99
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Saving..
+acc: 4.9
+
+Epoch: 1
+Saving..
+acc: 13.38
+
+Epoch: 2
+Saving..
+acc: 25.81
+
+Epoch: 3
+Saving..
+acc: 36.78
+
+Epoch: 4
+Saving..
+acc: 44.78
+
+Epoch: 5
+Saving..
+acc: 51.03
+
+Epoch: 6
+Saving..
+acc: 55.0
+
+Epoch: 7
+Saving..
+acc: 58.9
+
+Epoch: 8
+Saving..
+acc: 61.08
+
+Epoch: 9
+Saving..
+acc: 63.43
+
+Epoch: 10
+Saving..
+acc: 65.28
+
+Epoch: 11
+Saving..
+acc: 66.77
+
+Epoch: 12
+Saving..
+acc: 67.98
+
+Epoch: 13
+Saving..
+acc: 68.68
+
+Epoch: 14
+Saving..
+acc: 70.37
+
+Epoch: 15
+Saving..
+acc: 70.74
+
+Epoch: 16
+Saving..
+acc: 71.71
+
+Epoch: 17
+Saving..
+acc: 71.91
+
+Epoch: 18
+Saving..
+acc: 73.01
+
+Epoch: 19
+Saving..
+acc: 73.08
+
+Epoch: 20
+Saving..
+acc: 73.6
+
+Epoch: 21
+Saving..
+acc: 73.69
+
+Epoch: 22
+Saving..
+acc: 74.71
+
+Epoch: 23
+
+Epoch: 24
+Saving..
+acc: 74.97
+
+Epoch: 25
+Saving..
+acc: 74.99
+
+Epoch: 26
+Saving..
+acc: 75.34
+
+Epoch: 27
+Saving..
+acc: 75.48
+
+Epoch: 28
+Saving..
+acc: 76.23
+
+Epoch: 29
+Saving..
+acc: 76.27
+
+Epoch: 30
+Saving..
+acc: 76.72
+
+Epoch: 31
+
+Epoch: 32
+Saving..
+acc: 76.92
+
+Epoch: 33
+Saving..
+acc: 77.18
+
+Epoch: 34
+
+Epoch: 35
+Saving..
+acc: 77.28
+
+Epoch: 36
+Saving..
+acc: 77.37
+
+Epoch: 37
+Saving..
+acc: 77.54
+
+Epoch: 38
+Saving..
+acc: 77.56
+
+Epoch: 39
+Saving..
+acc: 77.68
+
+Epoch: 40
+
+Epoch: 41
+
+Epoch: 42
+Saving..
+acc: 77.9
+
+Epoch: 43
+Saving..
+acc: 78.09
+
+Epoch: 44
+Saving..
+acc: 78.2
+
+Epoch: 45
+
+Epoch: 46
+Saving..
+acc: 78.24
+
+Epoch: 47
+Saving..
+acc: 78.56
+
+Epoch: 48
+
+Epoch: 49
+Saving..
+acc: 78.64
+
+Epoch: 50
+
+Epoch: 51
+
+Epoch: 52
+
+Epoch: 53
+
+Epoch: 54
+
+Epoch: 55
+
+Epoch: 56
+
+Epoch: 57
+Saving..
+acc: 78.85
+
+Epoch: 58
+
+Epoch: 59
+Saving..
+acc: 78.88
+
+Epoch: 60
+
+Epoch: 61
+
+Epoch: 62
+Saving..
+acc: 78.98
+
+Epoch: 63
+
+Epoch: 64
+Saving..
+acc: 79.05
+
+Epoch: 65
+
+Epoch: 66
+
+Epoch: 67
+
+Epoch: 68
+
+Epoch: 69
+Saving..
+acc: 79.12
+
+Epoch: 70
+
+Epoch: 71
+
+Epoch: 72
+
+Epoch: 73
+
+Epoch: 74
+
+Epoch: 75
+
+Epoch: 76
+
+Epoch: 77
+
+Epoch: 78
+
+Epoch: 79
+
+Epoch: 80
+Saving..
+acc: 79.16
+
+Epoch: 81
+
+Epoch: 82
+Saving..
+acc: 79.17
+
+Epoch: 83
+
+Epoch: 84
+
+Epoch: 85
+Saving..
+acc: 79.18
+
+Epoch: 86
+
+Epoch: 87
+
+Epoch: 88
+
+Epoch: 89
+
+Epoch: 90
+
+Epoch: 91
+Saving..
+acc: 79.23
+
+Epoch: 92
+
+Epoch: 93
+
+Epoch: 94
+
+Epoch: 95
+
+Epoch: 96
+
+Epoch: 97
+
+Epoch: 98
+
+Epoch: 99
