@@ -1,0 +1,506 @@
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Saving..
+acc: 93.04
+
+Epoch: 1
+Saving..
+acc: 94.8
+
+Epoch: 2
+Saving..
+acc: 95.59
+
+Epoch: 3
+Saving..
+acc: 95.94
+
+Epoch: 4
+Saving..
+acc: 96.13
+
+Epoch: 5
+Saving..
+acc: 96.29
+
+Epoch: 6
+Saving..
+acc: 96.5
+
+Epoch: 7
+Saving..
+acc: 96.67
+
+Epoch: 8
+
+Epoch: 9
+Saving..
+acc: 96.7
+
+Epoch: 10
+Saving..
+acc: 96.76
+
+Epoch: 11
+Saving..
+acc: 96.86
+
+Epoch: 12
+
+Epoch: 13
+Saving..
+acc: 96.89
+
+Epoch: 14
+Saving..
+acc: 97.08
+
+Epoch: 15
+
+Epoch: 16
+Saving..
+acc: 97.17
+
+Epoch: 17
+
+Epoch: 18
+
+Epoch: 19
+
+Epoch: 20
+
+Epoch: 21
+
+Epoch: 22
+
+Epoch: 23
+
+Epoch: 24
+
+Epoch: 25
+Saving..
+acc: 97.27
+
+Epoch: 26
+
+Epoch: 27
+
+Epoch: 28
+
+Epoch: 29
+
+Epoch: 30
+
+Epoch: 31
+
+Epoch: 32
+
+Epoch: 33
+
+Epoch: 34
+
+Epoch: 35
+
+Epoch: 36
+
+Epoch: 37
+
+Epoch: 38
+
+Epoch: 39
+
+Epoch: 40
+
+Epoch: 41
+
+Epoch: 42
+
+Epoch: 43
+
+Epoch: 44
+
+Epoch: 45
+
+Epoch: 46
+
+Epoch: 47
+
+Epoch: 48
+
+Epoch: 49
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Saving..
+acc: 44.38
+
+Epoch: 1
+Saving..
+acc: 71.13
+
+Epoch: 2
+Saving..
+acc: 83.74
+
+Epoch: 3
+Saving..
+acc: 87.65
+
+Epoch: 4
+Saving..
+acc: 89.74
+
+Epoch: 5
+Saving..
+acc: 90.96
+
+Epoch: 6
+Saving..
+acc: 91.8
+
+Epoch: 7
+Saving..
+acc: 92.43
+
+Epoch: 8
+Saving..
+acc: 92.95
+
+Epoch: 9
+Saving..
+acc: 93.33
+
+Epoch: 10
+Saving..
+acc: 93.6
+
+Epoch: 11
+Saving..
+acc: 93.76
+
+Epoch: 12
+Saving..
+acc: 93.88
+
+Epoch: 13
+Saving..
+acc: 93.99
+
+Epoch: 14
+Saving..
+acc: 94.12
+
+Epoch: 15
+Saving..
+acc: 94.19
+
+Epoch: 16
+Saving..
+acc: 94.37
+
+Epoch: 17
+
+Epoch: 18
+Saving..
+acc: 94.46
+
+Epoch: 19
+Saving..
+acc: 94.48
+
+Epoch: 20
+Saving..
+acc: 94.6
+
+Epoch: 21
+Saving..
+acc: 94.61
+
+Epoch: 22
+Saving..
+acc: 94.69
+
+Epoch: 23
+
+Epoch: 24
+Saving..
+acc: 94.82
+
+Epoch: 25
+
+Epoch: 26
+Saving..
+acc: 94.84
+
+Epoch: 27
+Saving..
+acc: 94.88
+
+Epoch: 28
+Saving..
+acc: 94.92
+
+Epoch: 29
+Saving..
+acc: 94.95
+
+Epoch: 30
+Saving..
+acc: 94.98
+
+Epoch: 31
+Saving..
+acc: 95.04
+
+Epoch: 32
+Saving..
+acc: 95.05
+
+Epoch: 33
+Saving..
+acc: 95.06
+
+Epoch: 34
+Saving..
+acc: 95.12
+
+Epoch: 35
+
+Epoch: 36
+
+Epoch: 37
+
+Epoch: 38
+Saving..
+acc: 95.14
+
+Epoch: 39
+
+Epoch: 40
+
+Epoch: 41
+Saving..
+acc: 95.15
+
+Epoch: 42
+
+Epoch: 43
+Saving..
+acc: 95.16
+
+Epoch: 44
+
+Epoch: 45
+
+Epoch: 46
+
+Epoch: 47
+
+Epoch: 48
+
+Epoch: 49
+==> Preparing data..
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+Epoch: 0
+Saving..
+acc: 7.91
+
+Epoch: 1
+Saving..
+acc: 11.25
+
+Epoch: 2
+Saving..
+acc: 14.48
+
+Epoch: 3
+Saving..
+acc: 18.02
+
+Epoch: 4
+Saving..
+acc: 21.28
+
+Epoch: 5
+Saving..
+acc: 24.54
+
+Epoch: 6
+Saving..
+acc: 27.53
+
+Epoch: 7
+Saving..
+acc: 30.77
+
+Epoch: 8
+Saving..
+acc: 33.7
+
+Epoch: 9
+Saving..
+acc: 36.62
+
+Epoch: 10
+Saving..
+acc: 39.48
+
+Epoch: 11
+Saving..
+acc: 41.93
+
+Epoch: 12
+Saving..
+acc: 44.2
+
+Epoch: 13
+Saving..
+acc: 46.44
+
+Epoch: 14
+Saving..
+acc: 48.58
+
+Epoch: 15
+Saving..
+acc: 50.78
+
+Epoch: 16
+Saving..
+acc: 52.72
+
+Epoch: 17
+Saving..
+acc: 54.52
+
+Epoch: 18
+Saving..
+acc: 56.03
+
+Epoch: 19
+Saving..
+acc: 57.7
+
+Epoch: 20
+Saving..
+acc: 59.04
+
+Epoch: 21
+Saving..
+acc: 60.25
+
+Epoch: 22
+Saving..
+acc: 61.6
+
+Epoch: 23
+Saving..
+acc: 62.78
+
+Epoch: 24
+Saving..
+acc: 63.91
+
+Epoch: 25
+Saving..
+acc: 64.65
+
+Epoch: 26
+Saving..
+acc: 65.38
+
+Epoch: 27
+Saving..
+acc: 66.33
+
+Epoch: 28
+Saving..
+acc: 67.15
+
+Epoch: 29
+Saving..
+acc: 67.65
+
+Epoch: 30
+Saving..
+acc: 68.29
+
+Epoch: 31
+Saving..
+acc: 68.84
+
+Epoch: 32
+Saving..
+acc: 69.41
+
+Epoch: 33
+Saving..
+acc: 69.83
+
+Epoch: 34
+Saving..
+acc: 70.21
+
+Epoch: 35
+Saving..
+acc: 70.52
+
+Epoch: 36
+Saving..
+acc: 70.77
+
+Epoch: 37
+Saving..
+acc: 71.05
+
+Epoch: 38
+Saving..
+acc: 71.34
+
+Epoch: 39
+Saving..
+acc: 71.53
+
+Epoch: 40
+Saving..
+acc: 71.7
+
+Epoch: 41
+Saving..
+acc: 71.79
+
+Epoch: 42
+Saving..
+acc: 71.92
+
+Epoch: 43
+Saving..
+acc: 72.0
+
+Epoch: 44
+Saving..
+acc: 72.04
+
+Epoch: 45
+Saving..
+acc: 72.05
+
+Epoch: 46
+Saving..
+acc: 72.07
+
+Epoch: 47
+
+Epoch: 48
+
+Epoch: 49

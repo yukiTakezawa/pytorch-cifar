@@ -19,6 +19,6 @@ export PATH="/home/takezawa/anaconda3/bin:$PATH"
 conda activate MT_env
 
 
-for lr in {0.01,0.001,0.0001} ; do
+for lr in {0.0001,0.00001,0.000001} ; do
     python main_vit.py --lr=${lr}
 done
