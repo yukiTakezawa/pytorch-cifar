@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "main_flowers.py", line 47, in <module>
+    trainset = torchvision.datasets.Flowers102(
+AttributeError: module 'torchvision.datasets' has no attribute 'Flowers102'
+Traceback (most recent call last):
+  File "main_flowers.py", line 47, in <module>
+    trainset = torchvision.datasets.Flowers102(
+AttributeError: module 'torchvision.datasets' has no attribute 'Flowers102'
+Traceback (most recent call last):
+  File "main_flowers.py", line 47, in <module>
+    trainset = torchvision.datasets.Flowers102(
+AttributeError: module 'torchvision.datasets' has no attribute 'Flowers102'

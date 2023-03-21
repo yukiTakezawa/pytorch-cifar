@@ -11,7 +11,10 @@ from timm.models.vision_transformer import vit_tiny_patch16_224
 
 import os
 import argparse
+import time
 
+# torchvisionのversionが古くて入っていなかったのでコピペ
+from flowers102 import Flowers102
 from models import *
 #from utils import progress_bar
 
@@ -43,13 +46,13 @@ transform_test = transforms.Compose([
     transforms.Normalize((0.4914, 0.4822, 0.4465), (0.2023, 0.1994, 0.2010)),
 ])
 
-trainset = torchvision.datasets.Flowers102(
+trainset = Flowers102(
     "train", download=True, transform=transform_train)
 trainloader = torch.utils.data.DataLoader(
     trainset, batch_size=128, shuffle=True, num_workers=2)
 
 
-testset = torchvision.datasets.Flowers102(
+testset = Flowers102(
     "test", download=True, transform=transform_train)
 testloader = torch.utils.data.DataLoader(
     testset, batch_size=128, shuffle=True, num_workers=2)
@@ -92,7 +95,7 @@ if args.resume:
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.SGD(net.parameters(), lr=args.lr,
                       momentum=0.9, weight_decay=5e-4)
-scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=50)
+scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=100)
 
 
 # Training
@@ -141,9 +144,10 @@ def test(epoch):
 
     # Save checkpoint.
     acc = 100.*correct/total
+    print(f"acc: {acc}")
+    
     if acc > best_acc:
         print('Saving..')
-        print(f"acc: {acc}")
         state = {
             'net': net.state_dict(),
             'acc': acc,
@@ -155,7 +159,11 @@ def test(epoch):
         best_acc = acc
 
 
-for epoch in range(start_epoch, start_epoch+50):
+start_time = time.time()
+
+for epoch in range(start_epoch, start_epoch+100):
     train(epoch)
     test(epoch)
     scheduler.step()
+
+print((time.time() - start_time)/60.0)

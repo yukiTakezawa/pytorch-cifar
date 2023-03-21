@@ -1,0 +1,95 @@
+==> Preparing data..
+Downloading https://thor.robots.ox.ac.uk/datasets/flowers-102/102flowers.tgz to test/flowers-102/102flowers.tgz
+Extracting test/flowers-102/102flowers.tgz to test/flowers-102
+Downloading https://thor.robots.ox.ac.uk/datasets/flowers-102/imagelabels.mat to test/flowers-102/imagelabels.mat
+Downloading https://thor.robots.ox.ac.uk/datasets/flowers-102/setid.mat to test/flowers-102/setid.mat
+==> Building model..
+
+Epoch: 0
+acc: 3.4313725490196076
+Saving..
+
+Epoch: 1
+acc: 11.07843137254902
+Saving..
+
+Epoch: 2
+acc: 22.058823529411764
+Saving..
+
+Epoch: 3
+acc: 32.549019607843135
+Saving..
+
+Epoch: 4
+acc: 43.03921568627451
+Saving..
+
+Epoch: 5
+acc: 56.1764705882353
+Saving..
+
+Epoch: 6
+acc: 63.03921568627451
+Saving..
+
+Epoch: 7
+acc: 68.52941176470588
+Saving..
+
+Epoch: 8
+acc: 73.82352941176471
+Saving..
+
+Epoch: 9
+acc: 78.43137254901961
+Saving..
+
+Epoch: 10
+acc: 81.27450980392157
+Saving..
+
+Epoch: 11
+acc: 84.6078431372549
+Saving..
+
+Epoch: 12
+acc: 86.56862745098039
+Saving..
+
+Epoch: 13
+acc: 86.96078431372548
+Saving..
+
+Epoch: 14
+acc: 89.70588235294117
+Saving..
+
+Epoch: 15
+acc: 91.56862745098039
+Saving..
+
+Epoch: 16
+acc: 91.66666666666667
+Saving..
+
+Epoch: 17
+acc: 93.82352941176471
+Saving..
+
+Epoch: 18
+acc: 94.01960784313725
+Saving..
+
+Epoch: 19
+acc: 95.29411764705883
+Saving..
+
+Epoch: 20
+acc: 95.29411764705883
+
+Epoch: 21
+acc: 96.47058823529412
+Saving..
+
+Epoch: 22
